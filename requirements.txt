@@ -1,0 +1,9 @@
+torch 
+pandas
+pypdf
+langchain
+chromadb
+onnxruntime==1.20.0
+streamlit
+FlagEmbedding
+evaluate
